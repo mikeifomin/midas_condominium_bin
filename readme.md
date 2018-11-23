@@ -1,0 +1,1 @@
+https://github.com/condominium/CondominiumCore/releases
